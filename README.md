@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" alt="LeetCode">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk" alt="Java">
+  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/Sync-LeetSync-success?style=for-the-badge" alt="LeetSync">
   <img src="https://img.shields.io/badge/Started-12%20August%202026-purple?style=for-the-badge" alt="Start Date">
 </p>
@@ -76,131 +78,17 @@ This allows the repository to grow automatically as I continue practicing.
 
 **Start Date:** `12 August 2026`
 
-This date marks the beginning of my structured daily coding journey.
 
-From this point forward, the repository will serve as a chronological record of my progress.
-
-> **Day 1 → Day 100 → Day 365 → Beyond 🚀**
-
----
-
-## 📊 Progress
-
-My progress will continuously grow as I solve more problems.
-
-| Metric             |         Progress |
-| ------------------ | ---------------: |
-| 🧩 Problems Solved |             `0+` |
-| 🟢 Easy            |             `0+` |
-| 🟡 Medium          |             `0+` |
-| 🔴 Hard            |             `0+` |
-| 🔥 Current Streak  | `Starting Today` |
-| 📅 Journey Started |    `12 Aug 2026` |
 
 > **Note:** The statistics above can be updated periodically as the repository grows.
 
 ---
 
-## 🧠 Problem Categories
 
-My practice will gradually cover different areas of DSA and competitive programming.
-
-### 📌 Data Structures
-
-* Arrays
-* Strings
-* Linked Lists
-* Stacks
-* Queues
-* Hash Tables
-* Trees
-* Binary Search Trees
-* Heaps / Priority Queues
-* Graphs
-* Tries
-
-### 📌 Algorithms
-
-* Searching
-* Sorting
-* Binary Search
-* Two Pointers
-* Sliding Window
-* Recursion
-* Backtracking
-* Greedy Algorithms
-* Dynamic Programming
-* Divide & Conquer
-* Graph Algorithms
-
-### 📌 Problem-Solving Patterns
-
-* Prefix Sum
-* Hashing
-* Fast & Slow Pointers
-* Monotonic Stack
-* Merge Intervals
-* Top K Elements
-* Tree Traversal
-* Graph Traversal
-* Memoization
-* Tabulation
-
----
-
-## 📂 Repository Structure
-
-The repository structure is automatically maintained by LeetSync.
-
-A typical structure may look like:
-
-```text
-Daily-Coding-Practice/
-│
-├── Problem-Name-1/
-│   ├── solution.py
-│   └── README.md
-│
-├── Problem-Name-2/
-│   ├── solution.py
-│   └── README.md
-│
-├── Problem-Name-3/
-│   ├── solution.py
-│   └── README.md
-│
-└── README.md
-```
-
-Each solved problem becomes another entry in my growing DSA knowledge base.
-
----
-
-## 🏆 Milestones
-
-I want to track meaningful milestones throughout this journey.
-
-| Milestone                   | Status |
-| --------------------------- | :----: |
-| 🚀 Start Daily Practice     |   🟢   |
-| 🧩 Solve 10 Problems        |    ⚪   |
-| 🧩 Solve 25 Problems        |    ⚪   |
-| 🧩 Solve 50 Problems        |    ⚪   |
-| 🧩 Solve 100 Problems       |    ⚪   |
-| 🧩 Solve 250 Problems       |    ⚪   |
-| 🧩 Solve 500 Problems       |    ⚪   |
-| 🧩 Solve 1000 Problems      |    ⚪   |
-| 🔥 Maintain 30-Day Streak   |    ⚪   |
-| 🔥 Maintain 100-Day Streak  |    ⚪   |
-| 🏆 Master Core DSA Patterns |    ⚪   |
-
----
-
-## 🔥 The Consistency Rule
 
 The most important rule of this repository is simple:
 
-> ### **Never stop learning.**
+> ### **If you only do what you can do, you will never be more than you are now so Never stop learning.**
 
 Even if I cannot solve a difficult problem immediately, I will:
 
@@ -212,35 +100,17 @@ Even if I cannot solve a difficult problem immediately, I will:
 6. Understand the complexity.
 7. Move on to the next problem.
 
-### 🚫 No comparison.
+### 🚫 Try to No comparison.
 
-### 🚫 No rushing.
+### 🚫 Try to No rushing.
 
-### 🚫 No giving up.
+### 🚫 Try to Not giving up.
 
-### ✅ Just consistent improvement.
+### ✅ Just Tring to be consistent in improvement.
 
 ---
 
-## 📈 What I Want to Improve
 
-Through this journey, I aim to improve:
-
-```text
-Problem Understanding
-        ↓
-Logical Thinking
-        ↓
-Algorithm Selection
-        ↓
-Implementation
-        ↓
-Optimization
-        ↓
-Time & Space Complexity
-        ↓
-Interview-Ready Problem Solving
-```
 
 ---
 
@@ -250,8 +120,7 @@ The primary language used for solving problems may include:
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
 </p>
 
@@ -264,52 +133,14 @@ The language may vary depending on the problem and learning objective.
 ### 🟠 LeetCode
 
 **LeetCode:**
-`Add your LeetCode profile link here`
+https://leetcode.com/u/Aashiq_Rahaman01/
 
 ### 🐙 GitHub
 
 **GitHub:**
-`Add your GitHub profile link here`
+https://github.com/AashiqRahaman
 
----
 
-## 📚 My Learning Philosophy
-
-> **Consistency beats intensity.**
-
-I don't want this repository to simply be a collection of accepted solutions.
-
-I want it to represent:
-
-**Every attempt → Every mistake → Every concept → Every improvement.**
-
-Over time, these solutions will become a personal reference library that I can return to whenever I need to revise DSA concepts.
-
----
-
-## 🌱 From One Problem...
-
-```text
-             1 Problem
-                 ↓
-             10 Problems
-                 ↓
-             50 Problems
-                 ↓
-            100 Problems
-                 ↓
-            250 Problems
-                 ↓
-            500 Problems
-                 ↓
-           1000 Problems
-                 ↓
-        🧠 Stronger Problem Solver
-```
-
-Every problem counts.
-
----
 
 ## 🚀 Long-Term Goal
 
@@ -335,6 +166,9 @@ If something here helps you, consider giving the repository a ⭐.
 
 **Started on 12 August 2026**
 
-🔥 **One Problem. Every Day.**
+
+> ### **Every problem counts.**
+
+
 
 </p>
